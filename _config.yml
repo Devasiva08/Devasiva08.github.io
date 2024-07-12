@@ -24,7 +24,7 @@ author_bio: UG grad | Web developer | Excelled in Python Programming ,MySQL Data
 author_email: "mail@sujaykundu.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
-typewrite-text: UG grad 
+typewrite-text: UG grad|Web Developer
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
